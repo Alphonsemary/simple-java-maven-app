@@ -37,7 +37,7 @@
   
   <distributionManagement>
         <repository>
-           	<name>test-repo<name>
+           	<name>test-repo</name>
             <url>http://10.219.225.233/nexus/repository/test-repo/</url>
         </repository>
         <snapshotRepository>
