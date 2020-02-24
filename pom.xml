@@ -14,10 +14,11 @@
       <scope>test</scope>
     </dependency>
 	  <dependency>
+		  <groupId>mvnclean</groupId>
 		  <artifactId>maven-clean-plugin</artifactId>
-<version>2.5</version>
-<packaging>maven-plugin</packaging>
-<name>Maven Clean Plugin</name>
+		<version>2.5</version>
+		<packaging>maven-plugin</packaging>
+		<name>Maven Clean Plugin</name>
 		  </dependency>
   </dependencies>
 	
